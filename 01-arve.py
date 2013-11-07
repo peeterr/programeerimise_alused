@@ -1,5 +1,5 @@
 BMW = "{:^90}"
-print BMW.format("arve")
+print BMW.format("Arve")
 print
 print
 
